@@ -7,6 +7,7 @@ delete from remote 0812-2
 delete from remote 0812-3
 delete from remote 0814-1
 delete from remote 0814-2
+delete from remote 0814-3
 
 add from Lynn's PC 0812-1
 add from Lynn's PC 0812-2
